@@ -6,7 +6,7 @@ pkgdesc="Save editor for the Mass Effect Trilogy"
 arch=('x86_64')
 url="https://github.com/rexhent/trilogy-save-editor"
 license=('CECILL-2.1')
-depends=('gtk3' 'glib2')
+depends=('gtk3' 'glib2' 'libwebkit2gtk')
 
 # Source URL and checksum
 source=("https://github.com/rexhent/trilogy-save-editor/releases/download/linux/trilogy-save-editor")
