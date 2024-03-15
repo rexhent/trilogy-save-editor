@@ -49,3 +49,11 @@ npm install
 cargo install cargo-make
 cargo make release
 ```
+
+## Install binary through AUR (for arch users only)
+
+```sh
+git clone https://github.com/rexhent/trilogy-save-editor
+cd trilogy-save-editor
+makepkg -si
+```
