@@ -53,7 +53,7 @@ cargo make release
 ## Install binary through AUR (for arch users only)
 
 ```sh
-git clone https://github.com/rexhent/trilogy_save_editor
-cd trilogy_save_editor
+git clone https://github.com/rexhent/trilogy-save-editor
+cd trilogy-save-editor
 makepkg -si
 ```
